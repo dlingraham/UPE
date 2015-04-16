@@ -1,0 +1,15 @@
+ul
+{
+list-style-type: none;
+}
+ 
+ h1{
+	font-family: calibri;
+}
+
+h2 {
+	font-family: calibri;
+}
+.price {
+    font-weight: bold;
+}
