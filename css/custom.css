@@ -19,6 +19,7 @@
 
 .navbar{
 	font-family: 'Armata', sans-serif;
+	color: #000000;
 }
 
 .reqs{
@@ -26,13 +27,38 @@ font-family: 'Bitter', serif;
 }
 
 .btn{
+background-color: #6E2323;
+border-color: #6E2323;
 margin-left: 45%
 }
 
+body {
+    background-color: #b0c4de;
+}
+
 .b1{
-	background-color: #ffffff;
+	background-color: #DDEDD3;
 }
 
 .b2{
-	background-color: green;
+	background-color: #EDD3D3;
+}
+
+.b3{
+	background-color: #EDD3ED;
+}
+
+.b4{
+	background-color: #D3D7ED;
+}
+.b5{
+	background-color: #EDE4D3;
+}
+
+.b6{
+	background-color: #D3EDE7;
+}
+
+.b7{
+	background-color: #D7D3ED;
 }
