@@ -6,3 +6,33 @@
     background-repeat: no-repeat;
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;*/
+}
+
+ .thumbnail {
+    text-align: center;
+    font-family: 'Cinzel', sans-serif;
+}
+
+.jumbotron{
+	font-family: 'Hind', sans-serif;
+}
+
+.navbar{
+	font-family: 'Armata', sans-serif;
+}
+
+.reqs{
+font-family: 'Bitter', serif;
+}
+
+.btn{
+margin-left: 45%
+}
+
+.b1{
+	background-color: #ffffff;
+}
+
+.b2{
+	background-color: green;
+}
